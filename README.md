@@ -1,0 +1,2 @@
+# Avakus
+QR App
